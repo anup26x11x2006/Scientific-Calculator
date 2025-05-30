@@ -1,1 +1,1 @@
-   # SCIENTIFIC-Calculator Made By ANUP    
+   # SCIENTIFIC-CAlculator Made By ANUP    
