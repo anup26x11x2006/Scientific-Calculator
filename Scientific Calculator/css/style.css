@@ -10,6 +10,12 @@
 ::-webkit-scrollbar {
   width: 0;
 }
+a {
+  color: #f65a5a;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer; 
+}
 .calDiv {
   width: 23rem;
   padding: 0.6rem;
